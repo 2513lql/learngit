@@ -6,3 +6,4 @@ welcome to beijing.
 hello£¬world¡£
 hello,china¡£
 hello£¬beijing¡£
+github is a useful tool.
